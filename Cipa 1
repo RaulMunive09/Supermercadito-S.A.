@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Super Mercadito S.A.</title>
+    <link rel="shortcut icon" href="img/favicon-16x16.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/estilos.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&display=swap" rel="stylesheet"> 
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="#">Inicio</a>
+            <a href="#">Acerca de</a>
+            <a href="#">Productos</a>
+            <a href="#">Servicios</a>
+            <a href="#">Contacto</a>
+        </nav>
+        <section class="textos-header">
+            <h1>Los mejores productos y servicios</h1>
+            <h2>Con 100% calidad, y mejores precios garantizados</h2>
+        </section>
+        <div class="wave" style="height: 150px; overflow: hidden;"><svg viewBox="0 0 500 150" preserveAspectRatio="none"
+                style="height: 100%; width: 100%;">
+                <path d="M0.00,49.98 C150.00,150.00 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z"
+                    style="stroke: none; fill: #fff;"></path>
+            </svg></div>
+    </header>
+    <main>
+        <section class="contenedor sobre-nosotros">
+            <h2 class="titulo">Nuestros productos</h2>
+            <div class="contenedor-sobre-nosotros">
+                <img src="img/ilustracion2.svg" alt="" class="imagen-about-us">
+                <div class="contenido-textos">
+                    <h3><span>1</span>Productos de conveniencia.</h3>
+                    <p>Los productos de conveniencia no son más que aquellos artículos que los consumidores 
+                        quieren comprar con la mejor dificultad y esfuerzo físico posible. Uno de los ejemplos 
+                        que verás con mayor claridad sobre los productos de conveniencia lo puedes encontrar en los cereales.</p>
+                    <h3><span>2</span>Productos de compra.</h3>
+                    <p>Este tipo de productos se adquieren con poca frecuencia, ya que son compras planificadas y, 
+                        además, los usuarios comparan cuidadosamente cada marca. ¿Eres consciente de la importancia 
+                        de la industria automotriz en el mundo? Pues precisamente este es uno de los principales ejemplos 
+                        de productos de compra.</p>
+                    <h3><span>3</span>Productos de especialidad.</h3>
+                    <p>Los tipos de producto especializados o de especialidad, se caracterizan por una fuerte preferencia 
+                        y lealtad de marca, un esfuerzo 
+                        de compra especial, poca comparación de marcas y/o sensibilidad con relación al precio.</p>
+                    <h3><span>4</span>Productos no buscados.</h3>
+                    <p>Los productos no buscados son aquellos productos de consumo, cuya existencia desconocen 
+                        los consumidores. Estos tipos de productos son bienes que los clientes potenciales aún no quieren o 
+                        no saben que pueden adquirirlos. Por lo tanto, no los buscan en absoluto.</p>
+                </div>
+            </div>
+        </section>
+        <section class="Productos">
+            <div class="contenedor">
+                <h2 class="titulo">Productos</h2>
+                <div class="galeria-port">
+                    <div class="imagen-port">
+                        <img src="img/img1.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <p>Mostrar Productos</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/img2.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <p>Mostrar Productos</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/img3.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <p>Mostrar Productos</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/img4.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <p>Mostrar Productos</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/img5.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <p>Mostrar Productos</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/img6.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <p>Mostrar Productos</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/img7.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <p>Mostrar Productos</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/img8.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/icono1.png" alt="">
+                            <p>Mostrar Productos</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="clientes contenedor">
+            <h2 class="titulo">Que dicen nuestros clientes</h2>
+            <div class="cards">
+                <div class="card">
+                    <img src="img/face1.jpg" alt="">
+                    <div class="contenido-texto-card">
+                        <h4>Lulú Tina</h4>
+                        <p>Wow me sorpredieron estaba que me cortaban la luz y este super mercadito me hizo prestamo gracias son los mejores!</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="img/face2.jpg" alt="">
+                    <div class="contenido-texto-card">
+                        <h4>Raulcito</h4>
+                        <p>Son los mejores exelentes productos y a buen precio los recomiendo!</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="about-services">
+            <div class="contenedor">
+                <h2 class="titulo">Nuestros servicios</h2>
+                <div class="servicio-cont">
+                    <div class="servicio-ind">
+                        <img src="img/ilustracion1.svg" alt="">
+                        <h3>Domicilios</h3>
+                        <p>Marquenos a nuestra linea telefonica:</p> 
+                        <p>+57 3043625024</p>
+                        <p>Disponibilidad en:</p>
+                        <p>(Buenavista-Sucre) (Magangue-Bolivar)</p>
+                    </div>
+                    <div class="servicio-ind">
+                        <img src="img/ilustracion4.svg" alt="">
+                        <h3>Pagos de servicios Publicos</h3>
+                        <p>Pague su servicio de Energia</p>
+                        <p>Pague su servicio de Gas</p>
+                        <p>Pague su servicio de Agua</p>
+                        <p>Pague su servicio de Internet</p>
+                    </div>
+                    <div class="servicio-ind">
+                        <img src="img/ilustracion3.svg" alt="">
+                        <h3>Prestamos de dinero a bancos</h3>
+                        <p>Prestamos a Bancolombia</p>
+                        <p>Prestamos a Daviplata</p>
+                        <p>Prestamos a Nequi</p>
+                        <p>Prestamos a Ahorro a la mano</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Telefonos</h4>
+                <p>+57 3043625024</p>
+                <p>+57 3226681099</p>
+                <p>+57 3137254012</p>
+            </div>
+            <div class="content-foo">
+                <h4>Email</h4>
+                <p>Cipa1@supermercadito.net</p>
+            </div>
+            <div class="content-foo">
+                <h4>Ubicanos</h4>
+                <p>Magangue-Bolivar</p>
+                <p>Buenavista-Sucre</p>
+            </div>
+        </div>
+        <h2 class="titulo-final">&copy; Cipa 1 | Fercho-Raul-Danna</h2>
+    </footer>
+</body>
+
+</html>
